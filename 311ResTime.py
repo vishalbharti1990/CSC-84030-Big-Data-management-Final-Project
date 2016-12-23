@@ -82,4 +82,4 @@ if __name__ == "__main__":
 	rdd = rdd.mapPartitionsWithIndex(respTime).mapValues(lambda v: (v,1)).reduceByKey(lambda a,b: (a[0]+b[0], a[1]+b[1])).mapValues(lambda v: (v[0]/float(v[1]), v[1]) )
 
 	# Save the resulting rdd as text file
-	rdd.coalesce(1,True).saveAsTextFile("311ROut")
+	rdd.coalesce(1,True).saveAsTextFile("311ResTime")
