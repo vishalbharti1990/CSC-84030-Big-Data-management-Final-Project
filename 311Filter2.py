@@ -62,4 +62,4 @@ if __name__ == "__main__":
 	rdd = rdd.mapPartitionsWithIndex(mapper).reduceByKey(operator.add)
 
 	# Save the resulting rdd as text file
-	rdd.coalesce(1,True).saveAsTextFile("311Filter")
+	rdd.coalesce(1,True).saveAsTextFile("311Filter2")
