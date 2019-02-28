@@ -4,4 +4,4 @@ Final project for the big data management and analysis class at GC,CUNY
 
 Link to Tableau workbook :  [Tableau Workbook](https://public.tableau.com/views/311workbook/CompDash?:embed=y&:display_count=yes)
 
-<center><iframe src="https://public.tableau.com/views/ATaleof50Cities/ATaleof50Cities?:embed=y&:display_count=yes&:toolbar=no" width="1004" height="1269" frameborder="0"></iframe></center>
+<center><iframe src="https://public.tableau.com/shared/CRP9NHXDM?:display_count=yes" width="1004" height="1269" frameborder="0"></iframe></center>
