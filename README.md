@@ -4,7 +4,7 @@ Data analysis of the NYC [311](https://nycopendata.socrata.com/Social-Services/3
 Link to Tableau workbook :  [Tableau Workbook](https://vishalbharti1990.github.io/CSC-84030-Big-Data-management-Final-Project/)
 
 ### Filtering by Borough
-![](Images/311_snap1.png){width=50%}
+![](Images/311_snap1.png)
 
 ### Filtering by Month
 ![](Images/311_snap2.png)
@@ -21,20 +21,20 @@ Link to Tableau workbook :  [Tableau Workbook](https://vishalbharti1990.github.i
 ### 'Snow' Service Request by Hour of the day
 ![](Images/311_snap6.png)
 
-### New
+### Average Response Time for each Dept.
 ![](Images/311_snap7.png)
 
-### New
+### Service Requests Monthly Trends
 ![](Images/311_snap71.png)
 
-### New
+### 'HEATING' Service Request Monthly Trends
 ![](Images/311_snap8.png)
 
-### New
+### Total Service Requests per Category For 'ALL' Boroughs 
 ![](Images/311_snap9.png)
 
-### New
+### Service Requests per Category For 'STATEN ISLAND' Borough
 ![](Images/311_snap10.png)
 
-### New
+### Total Service Requests by Day of the Week
 ![](Images/311_snap11.png)
