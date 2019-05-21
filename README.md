@@ -3,4 +3,4 @@ Data analysis of the NYC [311](https://nycopendata.socrata.com/Social-Services/3
 
 Link to Tableau workbook :  [Tableau Workbook](https://vishalbharti1990.github.io/CSC-84030-Big-Data-management-Final-Project/)
 
-![]()
+![](Images/311snap.png)
